@@ -1,0 +1,21 @@
+body h1{
+    text-align: center;
+}
+
+.atas{
+    background-color: #42032C ;
+    font-weight: 1000;
+    color: beige;
+}
+.titik {
+    text-align: center;
+}
+.tengah{
+    background-color: #c02587;
+}
+
+.bawah{
+    background-color: #42032C  ;
+    font-weight: 1000;
+    color: beige;
+}
